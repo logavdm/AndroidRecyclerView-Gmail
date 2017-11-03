@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "632131697854",
+    "firebase_url": "https://angular2chat-3d460.firebaseio.com",
+    "project_id": "angular2chat-3d460",
+    "storage_bucket": "angular2chat-3d460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632131697854:android:9a1b6e2fd9ade379",
+        "android_client_info": {
+          "package_name": "com.example.logavdm.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632131697854-j3vmec5mintm393j2kbkfuuv0ob2fla0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DbleHVAF9A9e7MhlKfQ5bYS6m9WSHoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632131697854:android:25421a53a8ac5250",
+        "android_client_info": {
+          "package_name": "com.gowthami.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632131697854-j3vmec5mintm393j2kbkfuuv0ob2fla0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DbleHVAF9A9e7MhlKfQ5bYS6m9WSHoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

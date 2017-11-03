@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\glide-3.7.0_fb818deec3fe7522011ab849007a9d739cdf551c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\cb1b94ee650c6301088c565e7ae477d62079caa2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b588e699986d600643b832a4e6051070a85cb918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\afa6f8dceaf9dbe4b6a1422298f4e59552a5e412\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_ba10154555409fa7f98cbcde4ebf449335c850a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_a89a3a5127a17ab33bb0c90b743f6a72dc17f5a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\c9c58ef8eb174eb95abb4307e32abf5db3149541\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_826d0c6dfcdf96f26eb8f2881dfd46a0f034f75f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\f48c4d259c9645f41b347e585a2819355693fe99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_66ef71c30615780188eead821d27232b6d8ef37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_2b623dfbc05e306c5191913d25ff7beb3203ca87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_0c47a74f59ed63282e8848d489e4f6cfc6fd7dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\okio-1.6.0_64c43c9e57d025d9d7b84a9b2a1cfcac504002a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\4fe778f232d3b777e4935308ecf34586f2bdfdc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_21713c4e826aa185570dce52af445ccaf76f786e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\18b3fd3b4eea287ccc1da56e55019bca34f5506c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_eab99b026ecc4b417ce91628883ba2b892287f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\cf8ec90c71831ef32f854bd44fee5c5f4c85ff8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_d33854ab2c232ea8310ba07d4df80804a11c6320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_e2fca011e3a477385320b4a5c376b954540af0f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\c8b9b4be3667027b43b61abad5d76328585c7c02\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_903f693719ba380e819ed4292fac56568987aaf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\e83963a05d9df5fc8d8b704f72486e619fcdd302\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_bdfa1d90a236e06b1572db52cf7597d39e2ccee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\18b3fd3b4eea287ccc1da56e55019bca34f5506c\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_892421b9b7af10f968969dd10207db4d80e227df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_b88ee98de72c38d05eee631abd33b50c90cf7322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\b3895451e0d1fe0e90222ea7c1e47c33bb7f0852\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_adb0cddb6406a12f8ee92b7eede4e375b69eb93d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\9f9666df5a41c4e70502607a561c790a49119f5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_12af790baf9dc51a918e6f83674f25cf612b1121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\2368681f32fede3836393085131e21e5135b2fe7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_4f7a0a3e0054d6b3b251fff1ceda18ffb2c4011e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\9f9666df5a41c4e70502607a561c790a49119f5c\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a027602f76d289eecba1e6ea2bff0317157f664c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\c8b9b4be3667027b43b61abad5d76328585c7c02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_df3791844ffae05001fce4ed102aa5bdc400419f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\cb1b94ee650c6301088c565e7ae477d62079caa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\classes_8d1b4df70657e989627168da6eb5f289396c81a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.android\build-cache\c9c58ef8eb174eb95abb4307e32abf5db3149541\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_46f25bc84c5a27d8d4811f3908ae30abd4e077ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\Projects\Android\workspace\Gmail\app\build\intermediates\pre-dexed\debug\gson-2.6.2_e8243a94b52de2648c09d4c750b97308213a1ffa.jar" />
+    </item>
+
+</items>
